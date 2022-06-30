@@ -1,0 +1,21 @@
+GIT - conhecimento diversionamento de codigo
+
+basico de comandos de terminal para navegar em pasta, fazer comando de git executar mpm baixar biliotecas
+
+estrutura de dados e algoritmos
+
+saber diferença entre array map e set
+
+praticar algoritmos otimo para desenvolver logica e mais calma para resolver problemas
+
+bom saber sobre proxy vpn conexao ssh
+
+saber consultar api rest e web socket (saber a diferença entre web socket e long pulling)
+
+noção em graphic L 
+
+saber fazer 
+
+base de dados SQL - saber fazer querys 
+
+no sequel instalar mongo db brincar com ele seguir tutorial

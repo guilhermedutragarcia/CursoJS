@@ -1,0 +1,59 @@
+window.alert (" frase aqui") // para ter uma tela popup com string
+
+Number(n) para transformar string em numero
+
+String(n)
+
+n.toString()
+
+utilizar ${variavel} no meio da string para mostrar uma variavel
+
+(node )
+
+n1.toLoacleString('pt-BR',{style: 'currency', currency: 'BRL'}) - para mostrar o valor configurado para moeda brasileira.
+-----------------------------
+if (variavel <= numero && variavel >=numero) {
+	OQUE DEVERA EXECUTAR CASO CAIA NESSE BLOCO
+} else {
+	aqui vai o que devera executar caso caia nesse bloco
+
+}
+
+-----------------------------------------------------
+switch - CASE              SOMENTE SERÁ USADO QUANDO NO PROGRAMA TERA POUCAS OPÇÕES DE RESULTADO! ECONOMIZA LINHA E USA MENOS IF'S!
+
+SUPONDO var numero = 1
+
+switch (numero) {
+	case numero1:          (case: RESULTADODAVARIAVEL!!!!!!!)
+	OQUE DEVERA EXECUTAR
+	break;              (NECESSITA USAR O BREAK NO FIM DA FUNÇÃO! SE NÃO O RESTO DO SWITCH SERÁ EXECUTADO)
+	case numero2:
+	OQUE DEVERA EXECUTAR 
+	break;
+	case numero3:
+	OQUE DEVERA EXECUTAR
+	break;
+	
+	default: 
+	(OQUE DEVERA EXECUTAR SE A RESPOSTA NÃO SE ENCAIXAR COM ALGUMA DAS OPÇÕES ACIMA!)
+
+	ex: document.write("ERRO - Verifique sua resposta!")
+
+}
+
+
+
+
+
+-----------------------------
+var ALGUMAVARIAVEL = []   (o "[]" significa que a variavel é um array (vetor))
+
+ALGUMAVARIAVEL.push(algumelemento)     (adiciona um elemento no fim do array)
+ALGUMAVARIAVEL.shift()			(elimina o primeiro elemento)
+ALGUMAVARIAVEL.unshift()		(adiciona no primeiro elemento)
+ALGUMAVARIAVEL.splice(2, 1) 		(elimina elemento no meio do array, o numero 2 significa qual o indice(posição) e o 1 significa quantos indices ira remover a partir do 2)7
+
+
+
+
