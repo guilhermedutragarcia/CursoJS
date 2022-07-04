@@ -1,4 +1,4 @@
-body {
+    body {
     background: #5656c0;
     font: normal 15pt Arial;
 } 
@@ -14,9 +14,6 @@ section {
     height: 50%;
     margin: auto;
     box-shadow: 5px 5px 20px #000000;
-}
-div {
-
 }
 footer {
     color: white;
